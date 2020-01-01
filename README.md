@@ -12,3 +12,6 @@ A fun project converting images to ASCII art
   - -s / --scale: Scale to be used when converting
   - -o / --out: Location of output text file
   - -c / --cols: Number of columns in output text; the higher the better "image" quality
+
+## Inspired by: 
+https://www.geeksforgeeks.org/converting-image-ascii-image-python/
